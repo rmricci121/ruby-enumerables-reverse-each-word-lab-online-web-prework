@@ -1,6 +1,6 @@
 def reverse_each_word(string)
-  array = [string]
   
-  array.reverse_each
+  
+  string.reverse_each
  
 end

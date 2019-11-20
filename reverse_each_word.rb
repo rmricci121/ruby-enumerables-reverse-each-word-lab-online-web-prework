@@ -4,6 +4,6 @@ def reverse_each_word(string)
   # array.each do
     string.reverse_each
   
-  end
+  #end
    #array
 end
